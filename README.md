@@ -15,7 +15,6 @@
 
 **참고자료**   
 - 플레이 영상 : <https://url.kr/fhj1we>
-- <a href="https://url.kr/fhj1we" target="_blank">Example 링크</a>
 
 ---
 
