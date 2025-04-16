@@ -1,5 +1,4 @@
-# War Paper
-
+# 진식 게임
 
 ## 개요
 수박게임의 모작 '진식 게임'. 본 게임은 초상권자의 초상권 사용 및 깃허브 게시 허락을 받아 제작되었습니다.
@@ -16,6 +15,7 @@
 
 **참고자료**   
 - 플레이 영상 : <https://url.kr/fhj1we>
+- <a href="https://url.kr/fhj1we" target="_blank">Example 링크</a>
 
 ---
 
