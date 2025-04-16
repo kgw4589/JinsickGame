@@ -51,7 +51,7 @@
 
 **초기화**
 * 인 게임 내 우측 상단의 **`Reset`** 버튼을 눌러 진행 중이던 게임을 초기화 시킬 수 있음.
-![Image](https://github.com/user-attachments/assets/60a4286c-9cb6-4049-9293-1cc68816d5c0) 
+![Image](https://github.com/user-attachments/assets/3292f606-a58b-4b52-866e-fe4f8294861f)
 
 ---
 
