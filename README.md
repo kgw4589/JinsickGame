@@ -35,7 +35,7 @@
 | **`설명`** | 조작법, 진화 단계 등 게임에 대한 설명 팝업 UI를 띄움 |  |
 | **`종료`** | 게임이 종료됨 |  |
 * 인 게임 내 우측 상단의 **`Back MainMenu`** 버튼을 눌러 메인 화면 씬으로 넘어갈 수 있음.
-![Image](https://github.com/user-attachments/assets/2c506798-3dc7-4c34-8fe9-bba02d0fecbb)
+![Image](https://github.com/user-attachments/assets/4b0e2ebe-1285-4aff-bfc0-102c1559b2d3)
 
 **기본 조작**
 * A 혹은 <- 화살표로 낙하 지점을 좌로 이동.
