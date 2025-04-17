@@ -37,7 +37,7 @@
 | **`설명`** | 조작법, 진화 단계 등 게임에 대한 설명 팝업 UI를 띄움 |  |
 | **`종료`** | 게임이 종료됨 |  |
 * 인 게임 내 우측 상단의 **`Back MainMenu`** 버튼을 눌러 메인 화면 씬으로 넘어갈 수 있음.     
-![Image](https://github.com/user-attachments/assets/55090f9d-cde8-48d9-9ad4-6767415b7821)
+![Image](https://github.com/user-attachments/assets/997de6a1-f7c8-4459-8bc8-5a0be4f85d62)
 
 
 **기본 조작**
@@ -51,11 +51,11 @@
 * 11단계의 오브젝트는 충돌하더라도 변하지 않음.
 * 합쳐지며 점수를 획득함.
 * 점수는 두 오브젝트의 등급에 따라 10 20 40 80 160 ... 순서로 증가함.     
-![Image](https://github.com/user-attachments/assets/a5f4407f-4409-4319-b08c-4a7d2ddb68b5)
+![Image](https://github.com/user-attachments/assets/fb1b2ec9-e3a1-4bea-8af2-179311c6d4b2)
 
 **초기화** 
 * 인 게임 내 우측 상단의 **`Reset`** 버튼을 눌러 진행 중이던 게임을 초기화 시킬 수 있음.        
-![Image](https://github.com/user-attachments/assets/2eb34060-ba52-43c6-8d8a-b7d4c6734245)
+![Image](https://github.com/user-attachments/assets/cf38df02-c1f2-4362-a5fd-e91dfadbf331)
 
 
 ---
