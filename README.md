@@ -34,8 +34,8 @@
 | **`GO!`** | 게임을 시작. 게임 씬으로 넘어감 |  |
 | **`설명`** | 조작법, 진화 단계 등 게임에 대한 설명 팝업 UI를 띄움 |  |
 | **`종료`** | 게임이 종료됨 |  |
-* 인 게임 내 우측 상단의 **`Back MainMenu`** 버튼을 눌러 메인 화면 씬으로 넘어갈 수 있음.
-![Image](https://github.com/user-attachments/assets/1caa9ab4-dd94-46e8-bb6e-90dae0db982a)
+* 인 게임 내 우측 상단의 **`Back MainMenu`** 버튼을 눌러 메인 화면 씬으로 넘어갈 수 있음.     
+![GIF 깨짐](https://github.com/user-attachments/assets/1caa9ab4-dd94-46e8-bb6e-90dae0db982a)
 
 
 **기본 조작**
