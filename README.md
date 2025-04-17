@@ -60,8 +60,8 @@
 **게임 오버**
 * 오브젝트가 상자 밖으로 떨어지면 게임 오버 패널이 팝업됨.
 * 게임 오버 패널에는 최종 Score가 표시됨.
-* 패널의 **`RESTART`** 게임을 다시 시작할 수 있음.
-
+* 패널의 **`RESTART`** 게임을 다시 시작할 수 있음.     
+![Image](https://github.com/user-attachments/assets/1d710d0f-891f-4dbc-a997-44d8f05e2654)
 
 ---
 
